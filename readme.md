@@ -1,6 +1,6 @@
 <h1 align="center">
 
-GenshinDailyHelper.Docs
+GenshinDailyTools.Docs
 
 </h1>
 
